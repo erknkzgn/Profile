@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Swift,C# & RPA Tools**
+- 💬 Ask me about -> **Swift,C# & RPA Tools**
 
-- 📫 How to reach me **erkan.kzgn@hotmai.com**
+- 📫 How to reach me : **erkan.kzgn@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
