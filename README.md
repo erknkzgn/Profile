@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erkan Kızgın</h1>
-<h3 align="center">IOS & RPA Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Android Environment**
 
-- 💬 Ask me about -> **Mobile Developer**
+- 💬 Ask me about -> **Mobile Developement And RPA**
 
 - 📫 How to reach me : **erkan.kzgn@hotmail.com**
 
