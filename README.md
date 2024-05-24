@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about -> **Swift,C# & RPA Tools**
+- 💬 Ask me about -> **Mobile Developer**
 
 - 📫 How to reach me : **erkan.kzgn@hotmail.com**
 
@@ -18,7 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
- 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
